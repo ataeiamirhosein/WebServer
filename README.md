@@ -13,9 +13,11 @@
  For WEP or WPA, change the `Wifi.begin()` call accordingly.  
 
  Circuit:
- * Arduino Primo or STAR OTTO or Uno WiFi Developer Edition (with WiFi Link firmware running)
+ * Arduino Primo or Uno WiFi Developer Edition (with WiFi Link firmware running)
  * LED attached to pin 9
 
 ## my run and Result
+
+you can see on my youtube channel
 
 https://www.youtube.com/watch?v=K0I9b7xwXck
