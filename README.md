@@ -16,7 +16,9 @@
  * Arduino Primo or Uno WiFi Developer Edition (with WiFi Link firmware running)
  * LED attached to pin 9
 
-## my run and Result
+## my run and Result in polimi career challenge
 
-you can see the test clip on my youtube channel:
+![wifi carrer](https://www.iotco.net/career.jpg)  
+
+also you can see clip of testing this code on my youtube channel:
 https://www.youtube.com/watch?v=K0I9b7xwXck
