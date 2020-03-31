@@ -18,7 +18,5 @@
 
 ## my run and Result in polimi career challenge
 
-![wifi carrer](https://www.iotco.net/career.jpg)  
-
-also you can see clip of testing this code on my youtube channel:
+also you can see clip of testing this code on my youtube channel:  
 https://www.youtube.com/watch?v=K0I9b7xwXck
