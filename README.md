@@ -18,6 +18,5 @@
 
 ## my run and Result
 
-you can see on my youtube channel
-
+you can see the test clip on my youtube channel:
 https://www.youtube.com/watch?v=K0I9b7xwXck
