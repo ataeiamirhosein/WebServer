@@ -1,6 +1,7 @@
+
 /*
- *author amirhosein ataei
- *date oct 2019
+ *author: amirhosein ataei
+ *date: oct 2019
  */
 
 #include <WiFiLink.h>
@@ -14,7 +15,7 @@ WiFiServer server(80);
 
 void setup() {
   Serial.begin(115200);      // initialize serial communication
-  pinMode(9, OUTPUT);      // set the LED pin mode
+  pinMode(9, OUTPUT);        // set the LED pin mode
 
   //Check if communication with the wifi module has been established
   if (WiFi.status() == WL_NO_WIFI_MODULE_COMM) {
